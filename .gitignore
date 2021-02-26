@@ -1,0 +1,9 @@
+**/target
+*.o
+*.so
+*.a
+enclave/Enclave_t.c
+enclave/Enclave_t.h
+app/Enclave_u.c
+app/Enclave_u.h
+bin/
